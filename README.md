@@ -1,6 +1,6 @@
 ### Olá me chamo Matheus Sebastião👋
 
-Com formação em engenharia civil, sou um estudante de Data Science na FIAP e estou na busca por minha primeira oportunidade na área de dados. Dedico meu tempo a explorar e realizar projetos e cursos relacionados, visando enriquecer meu portfólio.
+Com formação em engenharia civil, sou um estudante de Data Science na FIAP em busca por minha primeira oportunidade na área de dados. Dedico meu tempo a explorar e realizar projetos e cursos relacionados, visando enriquecer meu portfólio.
 
 Possuo conhecimentos em estatística, Python, Power Bi e SQL habilidades essenciais para analisar dados e extrair insights de maneira eficaz.
 
